@@ -1,5 +1,7 @@
 # Esophageal-Cancer-Detection
 
+Ref: https://www.kaggle.com/datasets/abhinaba1biswas/esophageal-cancer-dataset/code
+
 Data Cleaning & Preparation 
 - Filtered out features with over 50% missing values and dropped unnecessary columns to refine our dataset. 
 - Handled remaining missing values with targeted imputions—using mode for categorical features and mean for continuous.
